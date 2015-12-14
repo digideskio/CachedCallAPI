@@ -1,0 +1,8 @@
+{
+	"employees": [
+		{ "id": 101, "name": "emp1", "job": "Manager" },
+		{ "id": 102, "name": "emp2", "job": "Executive" },
+		{ "id": 103, "name": "emp3", "job": "Worker" },
+		{ "id": 104, "name": "emp4", "job": "Engineer" }
+	]
+}
